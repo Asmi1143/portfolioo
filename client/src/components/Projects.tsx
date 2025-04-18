@@ -10,8 +10,8 @@ const projects = [
     image: "https://images.unsplash.com/photo-1579403124614-197f69d8187b?ixlib=rb-4.0.3&auto=format&fit=crop&w=764&q=80",
     tags: ["Next.js", "Node.js", "Socket.io"],
     badge: { text: "Next.js", color: "bg-primary/80" },
-    demoLink: "#",
-    githubLink: "#"
+    demoLink: "https://as-sketchbook.vercel.app/",
+    githubLink: "https://github.com/Asmi1143/Sketchbook"
   },
   {
     title: "Blog Website",
@@ -19,8 +19,8 @@ const projects = [
     image: "https://images.unsplash.com/photo-1499750310107-5fef28a66643?ixlib=rb-4.0.3&auto=format&fit=crop&w=1170&q=80",
     tags: ["ReactJS", "Express", "Node", "MongoDB"],
     badge: { text: "MERN Stack", color: "bg-secondary/80" },
-    demoLink: "#",
-    githubLink: "#"
+    demoLink: "https://as-mernblog.netlify.app/",
+    githubLink: "https://github.com/Asmi1143/MERN-Blog"
   },
   {
     title: "Artisan Scribe",
@@ -28,8 +28,8 @@ const projects = [
     image: "https://images.unsplash.com/photo-1536440136628-849c177e76a1?ixlib=rb-4.0.3&auto=format&fit=crop&w=1025&q=80",
     tags: ["ReactJS", "Material UI", "Docker", "MovieDB API"],
     badge: { text: "ReactJS", color: "bg-accent/80" },
-    demoLink: "#",
-    githubLink: "#"
+    demoLink: "https://artisanscribe.netlify.app/",
+    githubLink: "https://github.com/Asmi1143/ArtisanScribe"
   }
 ];
 
