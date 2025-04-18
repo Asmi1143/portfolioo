@@ -15,6 +15,7 @@ const experiences = [
     title: "Front End Developer",
     company: "Symposium Website Development",
     period: "Feb 2023 – Mar 2023",
+    demoLink: "https://trojans.citchennai.edu.in/"
     points: [
       "Collaborated using version control systems (Git), resulting in a 10% reduction in development time.",
       "Harnessed Google Firebase for efficient data management, resulted in a 30% enhancement in data retrieval speed.",
@@ -26,7 +27,7 @@ const experiences = [
     title: "Web Developer Intern",
     company: "Lets Grow More",
     period: "July 2023 – August 2023",
-    demoLink: "#",
+    demoLink: "https://to-do-list4u.netlify.app/",
     points: [
       "Completed 3 real-time projects, enhancing team efficiency by 25% through effective project planning.",
       "Developed TODOLISTforU, boosting productivity by 40% and attracting over 500 active users.",
