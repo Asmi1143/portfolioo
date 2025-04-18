@@ -116,7 +116,7 @@ export function Contact() {
               <h4 className="font-semibold mb-4">Connect with me</h4>
               <div className="flex space-x-4">
                 <a 
-                  href="https://linkedin.com" 
+                  href="https://www.linkedin.com/in/asmitha-s-2488b222a/" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="w-10 h-10 rounded-full bg-primary/10 flex items-center justify-center text-primary hover:bg-primary/20 transition-colors"
@@ -125,7 +125,7 @@ export function Contact() {
                   <Linkedin className="h-5 w-5" />
                 </a>
                 <a 
-                  href="https://github.com" 
+                  href="https://github.com/Asmi1143" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="w-10 h-10 rounded-full bg-muted flex items-center justify-center text-muted-foreground hover:bg-muted/80 transition-colors"
